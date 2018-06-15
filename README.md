@@ -1,5 +1,5 @@
 # news-map
-a website that lets users search for articles atop a map, using Google Map API
+a website (using Google Map API) that lets users search for articles atop a map
 
 application.py: main program that configures the web application
 
